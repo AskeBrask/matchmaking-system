@@ -1,0 +1,51 @@
+[
+    {
+        "id": 101,
+        "title": "Tømrer",
+        "required_skills": ["Tømrer"],
+        "days_needed": ["Mandag", "Tirsdag"],
+        "location": "Aarhus"
+    },
+    {
+        "id": 102,
+        "title": "Rengøringsassistent",
+        "required_skills": ["Rengøring"],
+        "days_needed": ["Onsdag", "Fredag"],
+        "location": "Aalborg"
+    },
+    {
+        "id": 103,
+        "title": "Chauffør",
+        "required_skills": ["Chauffør"],
+        "days_needed": ["Mandag", "Torsdag"],
+        "location": "Vejle"
+    },
+    {
+        "id": 104,
+        "title": "Lagerarbejder",
+        "required_skills": ["Lagerarbejde"],
+        "days_needed": ["Onsdag", "Fredag"],
+        "location": "Kolding"
+    },
+    {
+        "id": 105,
+        "title": "Elektriker",
+        "required_skills": ["Elektriker"],
+        "days_needed": ["Mandag", "Onsdag"],
+        "location": "Horsens"
+    },
+    {
+        "id": 106,
+        "title": "Svejsning",
+        "required_skills": ["Svejsning"],
+        "days_needed": ["Tirsdag", "Torsdag"],
+        "location": "Randers"
+    },
+    {
+        "id": 107,
+        "title": "Køkkenmedhjælper",
+        "required_skills": ["Køkkenmedhjælper"],
+        "days_needed": ["Tirsdag", "Onsdag"],
+        "location": "Esbjerg"
+    }
+]

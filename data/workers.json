@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "name": "Lars Nielsen",
+        "skills": [
+            "T\u00f8mrer",
+            "Murer"
+        ],
+        "availability": [
+            "Mandag",
+            "Tirsdag"
+        ],
+        "location": "Aarhus",
+        "experience_years": 8
+    },
+    {
+        "id": 2,
+        "name": "Mette S\u00f8rensen",
+        "skills": [
+            "Reng\u00f8ring",
+            "Pakkeriarbejde"
+        ],
+        "availability": [
+            "Onsdag",
+            "Fredag"
+        ],
+        "location": "Aalborg",
+        "experience_years": 5
+    },
+    {
+        "id": 3,
+        "name": "Peter Larsen",
+        "skills": [
+            "Chauff\u00f8r",
+            "Lagerarbejde"
+        ],
+        "availability": [
+            "Mandag",
+            "Torsdag",
+            "Fredag"
+        ],
+        "location": "Vejle",
+        "experience_years": 3
+    },
+    {
+        "id": 4,
+        "name": "Anne Hansen",
+        "skills": [
+            "Reng\u00f8ring",
+            "K\u00f8kkenmedhj\u00e6lper"
+        ],
+        "availability": [
+            "Tirsdag",
+            "Onsdag"
+        ],
+        "location": "Esbjerg",
+        "experience_years": 4
+    },
+    {
+        "id": 5,
+        "name": "Jens J\u00f8rgensen",
+        "skills": [
+            "T\u00f8mrer",
+            "Elektriker"
+        ],
+        "availability": [
+            "Mandag",
+            "Tirsdag",
+            "Onsdag"
+        ],
+        "location": "Horsens",
+        "experience_years": 10
+    },
+    {
+        "id": 6,
+        "name": "Karina Kristensen",
+        "skills": [
+            "Svejsning",
+            "Mont\u00f8r"
+        ],
+        "availability": [
+            "Tirsdag",
+            "Torsdag"
+        ],
+        "location": "Randers",
+        "experience_years": 6
+    },
+    {
+        "id": 7,
+        "name": "Bo Frederiksen",
+        "skills": [
+            "Lagerarbejde",
+            "Truckk\u00f8rsel"
+        ],
+        "availability": [
+            "Onsdag",
+            "Fredag"
+        ],
+        "location": "Kolding",
+        "experience_years": 2
+    },
+    {
+        "id": 8,
+        "name": "Aske Brask",
+        "skills": [
+            "IT",
+            "Hr",
+            "Adhoc"
+        ],
+        "availability": [
+            "man",
+            "tir",
+            "ons",
+            "tors",
+            "fre"
+        ],
+        "location": "Randers ",
+        "experience_years": 12
+    }
+]
